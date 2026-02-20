@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AGR_Entrenamientos/1.0.0": {
+        "runtime": {
+          "AGR_Entrenamientos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AGR_Entrenamientos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
