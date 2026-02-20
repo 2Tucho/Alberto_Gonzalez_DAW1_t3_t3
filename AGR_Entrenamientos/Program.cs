@@ -32,8 +32,11 @@ do
 
                 if (usuarios[correoLogin] == passwordLogin)
                 {
-                    Console.WriteLine("CONTRASEÑA OK");
-                } else if (usuarios[correoLogin] != passwordLogin)
+                    Console.WriteLine($"¡Bienvenido al sistema de entrenamientos {correoLogin}!\n  1. Registar entrenamiento\n  2. Lista de entrenamientos\n  3. Vaciar lista de entrenamientos\n  4. Cerrar sesión\n");
+
+
+                }
+                else if (usuarios[correoLogin] != passwordLogin)
                 {
                     Console.WriteLine("\nEsa contraseña no es válida, prueba otra diferente.");
                 }
