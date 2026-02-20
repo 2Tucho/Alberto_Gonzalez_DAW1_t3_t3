@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AGR_Entrenamientos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a79bbc15cb20bafb97d1bb62d4b9342f09d0ac39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e00b72297cb51fbedcf7721741b43a54ceb3eff")]
 [assembly: System.Reflection.AssemblyProductAttribute("AGR_Entrenamientos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AGR_Entrenamientos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
