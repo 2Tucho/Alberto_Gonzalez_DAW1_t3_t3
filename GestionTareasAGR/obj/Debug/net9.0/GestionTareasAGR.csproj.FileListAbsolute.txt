@@ -1,0 +1,15 @@
+C:\Users\Alberto\Desktop\Universidad Europea\Fundamentos de Programacion OL\Proyectos\Pruebas C\Alberto_Gonzalez_DAW1_t3_t3\GestionTareasAGR\bin\Debug\net9.0\GestionTareasAGR.exe
+C:\Users\Alberto\Desktop\Universidad Europea\Fundamentos de Programacion OL\Proyectos\Pruebas C\Alberto_Gonzalez_DAW1_t3_t3\GestionTareasAGR\bin\Debug\net9.0\GestionTareasAGR.deps.json
+C:\Users\Alberto\Desktop\Universidad Europea\Fundamentos de Programacion OL\Proyectos\Pruebas C\Alberto_Gonzalez_DAW1_t3_t3\GestionTareasAGR\bin\Debug\net9.0\GestionTareasAGR.runtimeconfig.json
+C:\Users\Alberto\Desktop\Universidad Europea\Fundamentos de Programacion OL\Proyectos\Pruebas C\Alberto_Gonzalez_DAW1_t3_t3\GestionTareasAGR\bin\Debug\net9.0\GestionTareasAGR.dll
+C:\Users\Alberto\Desktop\Universidad Europea\Fundamentos de Programacion OL\Proyectos\Pruebas C\Alberto_Gonzalez_DAW1_t3_t3\GestionTareasAGR\bin\Debug\net9.0\GestionTareasAGR.pdb
+C:\Users\Alberto\Desktop\Universidad Europea\Fundamentos de Programacion OL\Proyectos\Pruebas C\Alberto_Gonzalez_DAW1_t3_t3\GestionTareasAGR\obj\Debug\net9.0\GestionTareasAGR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto\Desktop\Universidad Europea\Fundamentos de Programacion OL\Proyectos\Pruebas C\Alberto_Gonzalez_DAW1_t3_t3\GestionTareasAGR\obj\Debug\net9.0\GestionTareasAGR.AssemblyInfoInputs.cache
+C:\Users\Alberto\Desktop\Universidad Europea\Fundamentos de Programacion OL\Proyectos\Pruebas C\Alberto_Gonzalez_DAW1_t3_t3\GestionTareasAGR\obj\Debug\net9.0\GestionTareasAGR.AssemblyInfo.cs
+C:\Users\Alberto\Desktop\Universidad Europea\Fundamentos de Programacion OL\Proyectos\Pruebas C\Alberto_Gonzalez_DAW1_t3_t3\GestionTareasAGR\obj\Debug\net9.0\GestionTareasAGR.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Desktop\Universidad Europea\Fundamentos de Programacion OL\Proyectos\Pruebas C\Alberto_Gonzalez_DAW1_t3_t3\GestionTareasAGR\obj\Debug\net9.0\GestionTareasAGR.sourcelink.json
+C:\Users\Alberto\Desktop\Universidad Europea\Fundamentos de Programacion OL\Proyectos\Pruebas C\Alberto_Gonzalez_DAW1_t3_t3\GestionTareasAGR\obj\Debug\net9.0\GestionTareasAGR.dll
+C:\Users\Alberto\Desktop\Universidad Europea\Fundamentos de Programacion OL\Proyectos\Pruebas C\Alberto_Gonzalez_DAW1_t3_t3\GestionTareasAGR\obj\Debug\net9.0\refint\GestionTareasAGR.dll
+C:\Users\Alberto\Desktop\Universidad Europea\Fundamentos de Programacion OL\Proyectos\Pruebas C\Alberto_Gonzalez_DAW1_t3_t3\GestionTareasAGR\obj\Debug\net9.0\GestionTareasAGR.pdb
+C:\Users\Alberto\Desktop\Universidad Europea\Fundamentos de Programacion OL\Proyectos\Pruebas C\Alberto_Gonzalez_DAW1_t3_t3\GestionTareasAGR\obj\Debug\net9.0\GestionTareasAGR.genruntimeconfig.cache
+C:\Users\Alberto\Desktop\Universidad Europea\Fundamentos de Programacion OL\Proyectos\Pruebas C\Alberto_Gonzalez_DAW1_t3_t3\GestionTareasAGR\obj\Debug\net9.0\ref\GestionTareasAGR.dll
