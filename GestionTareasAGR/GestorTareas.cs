@@ -15,7 +15,7 @@ public class GestorTareas
         };
         tareas.Add(nuevaTarea);
         Console.WriteLine($"\nTarea creada con ID: {nuevaTarea.Id}");
-        
+
     }
 
     public void BuscarPorTipo(TipoTarea tipo)
@@ -35,7 +35,7 @@ public class GestorTareas
         }
         else
         {
-            Console.WriteLine($"\n___ Tareas tipo {tipo} ___");
+            Console.WriteLine($"\n___ Tareas de tipo {tipo} ___");
             foreach (var tarea in tareasFiltradas)
             {
                 Console.WriteLine(tarea.Mostrar());
@@ -55,11 +55,12 @@ public class GestorTareas
             }
         }
 
-        if (indice != -1) 
+        if (indice != -1)
         {
             tareas.RemoveAt(indice);
             return true;
-        } else return false;
+        }
+        else return false;
     }
 
     public void ExportarTareas()

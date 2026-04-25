@@ -6,7 +6,7 @@ public class Program
         GestorTareas gestor = new GestorTareas();
         bool cerrar = false;
 
-        while (!cerrar)
+        while (!cerrar) //Mientras cerrar sea false, como se ha delarado, nostrará el menú con las opciones. Solo cambia con la opción de "Salir" a true y entonces finaliza el programa
         {
             MostrarMenu();
             string opcion = Console.ReadLine();
@@ -50,7 +50,7 @@ public class Program
 
     static void MostrarMenu()
     {
-        Console.Clear();
+        Console.Clear(); //Para que quede chulo, cada vez que cargue el menú que aparezca en lo alto
         Console.WriteLine("=== GESTOR DE TAREAS ===\n1. Crear tarea\n2. Buscar tareas por tipo\n3. Mostrar todas las tareas\n4. Eliminar tarea por ID\n5. Exportar tareas a archivo\n6. Importar tareas desde archivo\n0. Salir");
         Console.Write("\nSeleccione una opción: ");
     }
@@ -110,7 +110,7 @@ public class Program
         }
         else
         {
-            Console.WriteLine("\nID no válido.");
+            Console.WriteLine("\nEse ID no es válido.");
         }
     }
 }
