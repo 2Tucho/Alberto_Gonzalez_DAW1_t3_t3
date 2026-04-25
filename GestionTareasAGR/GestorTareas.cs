@@ -45,22 +45,18 @@ public class GestorTareas
 
     public bool EliminarTarea(int id)
     {
-        int indice = 0;
         for (int i = 0; i < tareas.Count; i++)
         {
             if (tareas[i].Id == id)
             {
-                indice = i;
-                break;
+                tareas.RemoveAt(i);
+                Console.WriteLine("Tarea eliminada correctamente.");
+                return true;
             }
         }
 
-        if (indice != -1)
-        {
-            tareas.RemoveAt(indice);
-            return true;
-        }
-        else return false;
+        Console.WriteLine($"No se encontró ninguna tarea con el ID {id}.");
+        return false;
     }
 
     public void ExportarTareas()

@@ -1,7 +1,3 @@
-0///ocio/True
-1/wgwgw/gwgewer/personal/True
-2/f2f2g2/acevqvgqg/trabajo/True
-0///ocio/True
-1/wgwgw/gwgewer/personal/True
-2/f2f2g2/acevqvgqg/trabajo/True
-3/w/d/ocio/False
+0/Hacer la colada/Lavadora y tender/personal/False
+1/Ir a ver al Atleti/Tengo entradas para ver el fútbol esta noche/personal/False
+3///personal/False
